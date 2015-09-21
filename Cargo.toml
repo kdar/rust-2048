@@ -1,0 +1,8 @@
+[package]
+name = "2048"
+version = "0.1.0"
+authors = ["Kevin Darlington <kevin@outroot.com>"]
+
+[dependencies]
+rustbox = "*"
+rand = "0.3"
